@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1-1",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.8",
+    "jade": ">= 0.0.1"
+  },
+  "subdomain": "blacktea",
+  "scripts": {
+    "start": "app.js"
+  },
+  "engines": {
+    "node": "0.6.x"
+  },
+  "name": "blacktea"
+}
